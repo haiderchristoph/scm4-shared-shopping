@@ -1,0 +1,1 @@
+<input required type="text" class="form-control" id="listTitle" name="<?php print SharedShopping\Controller::SL_TITLE; ?>" placeholder="My New ShoppingList" value="<?php echo htmlentities($listTitle); ?>"  <?php if ($userType == SharedShopping\UserType::VOLUNTEER) : ?> disabled <?php endif; ?>>

@@ -1,0 +1,94 @@
+[26.06.2020 - 18:06:32][NOTICE] - Created Shopping - user id: 1 | data: SL_TITLE: Another Shopping List | SL_DATE_UNTIL: 2020-07-05
+[26.06.2020 - 18:06:47][NOTICE] - Created article - user id: 1 | data: SL_ID: 4
+[26.06.2020 - 18:07:07][NOTICE] - Created article - user id: 1 | data: SL_ID: 4
+[26.06.2020 - 18:07:30][NOTICE] - Created article - user id: 1 | data: SL_ID: 4
+[26.06.2020 - 18:07:39][NOTICE] - Updated article - user id: 1 | data: ARTICLE_ID: 7
+[26.06.2020 - 18:08:05][NOTICE] - Deleted article - user id: 1 | data: ARTICLE_ID: 6
+[26.06.2020 - 18:08:39][NOTICE] - Updated Shopping - user id: 1 | data: SL_TITLE: Another Awesome Shopping List | SL_DATE_UNTIL: 2020-07-05
+[26.06.2020 - 18:08:43][NOTICE] - Changed state of shopping list to OPEN - user id: 1 | data: SL_ID: 4
+[26.06.2020 - 18:09:15][NOTICE] - Changed state of shopping list to INPROGRESS - user id: 3 | data: SL_ID: 4
+[26.06.2020 - 18:09:21][NOTICE] - Updated article to DONE - user id: 3 | data: ARTICLE_ID: 7
+[26.06.2020 - 18:09:22][NOTICE] - Updated article to DONE - user id: 3 | data: ARTICLE_ID: 5
+[26.06.2020 - 18:09:32][NOTICE] - Changed state of shopping list to DONE - user id: 3 | data: SL_ID: 4
+[26.06.2020 - 18:11:05][NOTICE] - Changed state of shopping list to INPROGRESS - user id: 3 | data: SL_ID: 1
+[26.06.2020 - 18:11:24][ERROR] - No permission to update article. - user id: 2
+[26.06.2020 - 18:16:32][ERROR] - No permission to update article. - user id: 3 | ARTICLE_ID: 4
+[26.06.2020 - 18:17:32][ERROR] - No permission to update article. - user id: 3 | ARTICLE_ID: 4
+[26.06.2020 - 18:17:58][ERROR] - No permission to update article. - user id: 2 | ARTICLE_ID: 1
+[26.06.2020 - 18:22:42][NOTICE] - Updated article to DONE - user id: 2 | data: ARTICLE_ID: 4
+[26.06.2020 - 18:22:43][NOTICE] - Updated article to NOT DONE - user id: 2 | data: ARTICLE_ID: 4
+[26.06.2020 - 18:23:21][ERROR] - No permission to update article. - user id: 3 | ARTICLE_ID: 4
+[26.06.2020 - 18:23:53][NOTICE] - Created Shopping - user id: 1 | data: SL_TITLE: asdfasdfasdf | SL_DATE_UNTIL: 2020-06-26
+[26.06.2020 - 18:23:57][NOTICE] - Changed state of shopping list to OPEN - user id: 1 | data: SL_ID: 5
+[26.06.2020 - 18:24:45][NOTICE] - Changed state of shopping list to INPROGRESS - user id: 3 | data: SL_ID: 5
+[26.06.2020 - 18:24:48][NOTICE] - Changed state of shopping list to DONE - user id: 3 | data: SL_ID: 5
+[26.06.2020 - 22:01:47][NOTICE] - Created Shopping - user id: 4 | data: SL_TITLE: This is my first list | SL_DATE_UNTIL: 2020-06-27
+[26.06.2020 - 22:01:57][NOTICE] - Created Shopping - user id: 4 | data: SL_TITLE: asdfasdfasdf | SL_DATE_UNTIL: 2020-06-26
+[26.06.2020 - 22:05:55][NOTICE] - Created Shopping - user id: 4 | data: SL_TITLE: adsfasdfasdfasdf | SL_DATE_UNTIL: 2020-06-26
+[26.06.2020 - 22:06:04][NOTICE] - Created article - user id: 4 | data: SL_ID: 6
+[26.06.2020 - 22:06:09][NOTICE] - Created article - user id: 4 | data: SL_ID: 6
+[26.06.2020 - 22:06:13][NOTICE] - Created article - user id: 4 | data: SL_ID: 6
+[26.06.2020 - 22:06:20][NOTICE] - Created article - user id: 4 | data: SL_ID: 6
+[26.06.2020 - 22:06:21][NOTICE] - Deleted article - user id: 4 | data: ARTICLE_ID: 7
+[26.06.2020 - 22:06:31][NOTICE] - Deletion of shopping list successful - user id: 4 | data: SL_ID: 6
+[26.06.2020 - 22:09:09][NOTICE] - Created Shopping - user id: 4 | data: SL_TITLE: asdfasdfasdf | SL_DATE_UNTIL: 2020-06-26
+[26.06.2020 - 22:09:14][NOTICE] - Created article - user id: 4 | data: SL_ID: 7
+[26.06.2020 - 22:09:19][NOTICE] - Created article - user id: 4 | data: SL_ID: 7
+[26.06.2020 - 22:09:23][NOTICE] - Created article - user id: 4 | data: SL_ID: 7
+[26.06.2020 - 22:10:22][NOTICE] - Created Shopping - user id: 4 | data: SL_TITLE: wqrwerqwerqwer | SL_DATE_UNTIL: 2020-06-26
+[26.06.2020 - 22:10:26][NOTICE] - Created article - user id: 4 | data: SL_ID: 8
+[26.06.2020 - 22:10:31][NOTICE] - Created article - user id: 4 | data: SL_ID: 8
+[26.06.2020 - 22:11:47][NOTICE] - Created Shopping - user id: 4 | data: SL_TITLE: rwerwer | SL_DATE_UNTIL: 2020-06-26
+[26.06.2020 - 22:11:51][NOTICE] - Created article - user id: 4 | data: SL_ID: 9
+[26.06.2020 - 22:11:52][NOTICE] - Deletion of shopping list successful - user id: 4 | data: SL_ID: 9
+[26.06.2020 - 22:12:03][NOTICE] - Created Shopping - user id: 4 | data: SL_TITLE: asdfasdfasdf | SL_DATE_UNTIL: 2020-06-26
+[26.06.2020 - 22:12:07][NOTICE] - Created article - user id: 4 | data: SL_ID: 10
+[26.06.2020 - 22:12:16][NOTICE] - Created article - user id: 4 | data: SL_ID: 10
+[26.06.2020 - 22:12:23][NOTICE] - Created article - user id: 4 | data: SL_ID: 10
+[26.06.2020 - 22:12:30][NOTICE] - Deletion of shopping list successful - user id: 4 | data: SL_ID: 10
+[26.06.2020 - 22:51:11][NOTICE] - Created article - user id: 1 | data: SL_ID: 4
+[26.06.2020 - 22:51:27][NOTICE] - Created article - user id: 1 | data: SL_ID: 4
+[26.06.2020 - 22:51:46][NOTICE] - Created article - user id: 1 | data: SL_ID: 4
+[26.06.2020 - 22:52:05][NOTICE] - Changed state of shopping list to OPEN - user id: 1 | data: SL_ID: 4
+[26.06.2020 - 22:53:11][NOTICE] - Changed state of shopping list to INPROGRESS - user id: 3 | data: SL_ID: 1
+[26.06.2020 - 22:53:24][NOTICE] - Updated article to DONE - user id: 3 | data: ARTICLE_ID: 1
+[26.06.2020 - 22:53:25][NOTICE] - Updated article to DONE - user id: 3 | data: ARTICLE_ID: 2
+[26.06.2020 - 22:54:04][NOTICE] - Changed state of shopping list to DONE - user id: 3 | data: SL_ID: 1
+[26.06.2020 - 23:02:38][NOTICE] - Created Shopping - user id: 1 | data: SL_TITLE: asdfasdfasdf | SL_DATE_UNTIL: 2020-06-26
+[26.06.2020 - 23:02:42][NOTICE] - Created article - user id: 1 | data: SL_ID: 11
+[26.06.2020 - 23:02:47][NOTICE] - Updated article - user id: 1 | data: ARTICLE_ID: 21
+[26.06.2020 - 23:02:57][NOTICE] - Updated article - user id: 1 | data: ARTICLE_ID: 21
+[26.06.2020 - 23:03:22][NOTICE] - Updated article - user id: 1 | data: ARTICLE_ID: 21
+[26.06.2020 - 23:03:27][NOTICE] - Updated article - user id: 1 | data: ARTICLE_ID: 21
+[26.06.2020 - 23:03:33][NOTICE] - Updated article - user id: 1 | data: ARTICLE_ID: 21
+[26.06.2020 - 23:03:44][NOTICE] - Deleted article - user id: 1 | data: ARTICLE_ID: 21
+[30.06.2020 - 17:53:57][NOTICE] - Created Shopping - user id: 4 | data: SL_TITLE: My Shopping List (Traudi) | SL_DATE_UNTIL: 2020-06-30
+[30.06.2020 - 17:57:56][NOTICE] - Changed state of shopping list to OPEN - user id: 4 | data: SL_ID: 12
+[30.06.2020 - 18:05:17][NOTICE] - Deletion of shopping list successful - user id: 4 | data: SL_ID: 12
+[30.06.2020 - 18:05:30][NOTICE] - Created Shopping - user id: 4 | data: SL_TITLE: I need help please! | SL_DATE_UNTIL: 2020-06-30
+[30.06.2020 - 18:05:50][NOTICE] - Created article - user id: 4 | data: SL_ID: 13
+[30.06.2020 - 18:06:03][NOTICE] - Created article - user id: 4 | data: SL_ID: 13
+[30.06.2020 - 18:06:47][NOTICE] - Changed state of shopping list to OPEN - user id: 4 | data: SL_ID: 13
+[30.06.2020 - 18:09:20][NOTICE] - Changed state of shopping list to INPROGRESS - user id: 2 | data: SL_ID: 13
+[30.06.2020 - 18:09:42][NOTICE] - Updated article to DONE - user id: 2 | data: ARTICLE_ID: 22
+[30.06.2020 - 18:09:43][NOTICE] - Updated article to DONE - user id: 2 | data: ARTICLE_ID: 23
+[30.06.2020 - 18:10:20][NOTICE] - Changed state of shopping list to DONE - user id: 2 | data: SL_ID: 13
+[30.06.2020 - 18:20:19][NOTICE] - Created Shopping - user id: 4 | data: SL_TITLE: asdfasdfasdfasdfasfd | SL_DATE_UNTIL: 2020-06-30
+[30.06.2020 - 18:20:23][NOTICE] - Created article - user id: 4 | data: SL_ID: 14
+[30.06.2020 - 18:20:31][NOTICE] - Created article - user id: 4 | data: SL_ID: 14
+[30.06.2020 - 18:20:34][NOTICE] - Deleted article - user id: 4 | data: ARTICLE_ID: 25
+[30.06.2020 - 18:26:31][ERROR] - No permission to change state of shopping list. - user id: 1
+[30.06.2020 - 18:29:38][NOTICE] - Deletion of shopping list successful - user id: 1 | data: SL_ID: 4
+[30.06.2020 - 18:30:16][NOTICE] - Created article - user id: 1 | data: SL_ID: 11
+[30.06.2020 - 18:30:21][NOTICE] - Created article - user id: 1 | data: SL_ID: 11
+[30.06.2020 - 18:59:11][NOTICE] - Created Shopping - user id: 1 | data: SL_TITLE: asdfasdfasdfasdf | SL_DATE_UNTIL: 2020-06-30
+[30.06.2020 - 18:59:16][NOTICE] - Updated Shopping - user id: 1 | data: SL_TITLE: asdfasdfasdfasdfasdfasdfasdf | SL_DATE_UNTIL: 2020-06-26
+[30.06.2020 - 18:59:21][NOTICE] - Created article - user id: 1 | data: SL_ID: 15
+[30.06.2020 - 18:59:26][NOTICE] - Created article - user id: 1 | data: SL_ID: 15
+[30.06.2020 - 18:59:27][NOTICE] - Deleted article - user id: 1 | data: ARTICLE_ID: 28
+[30.06.2020 - 18:59:29][NOTICE] - Changed state of shopping list to OPEN - user id: 1 | data: SL_ID: 15
+[30.06.2020 - 20:51:17][NOTICE] - Updated Shopping - user id: 1 | data: SL_TITLE: asdfasdfasdfasdfasdfasdfasdf | SL_DATE_UNTIL: 2020-06-30
+[30.06.2020 - 20:51:19][NOTICE] - Deletion of shopping list successful - user id: 1 | data: SL_ID: 15
+[30.06.2020 - 20:56:07][NOTICE] - Created article - user id: 1 | data: SL_ID: 2
+[30.06.2020 - 20:56:09][NOTICE] - Deleted article - user id: 1 | data: ARTICLE_ID: 3
+[30.06.2020 - 20:56:16][NOTICE] - Updated article - user id: 1 | data: ARTICLE_ID: 30

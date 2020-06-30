@@ -1,0 +1,1 @@
+<input required type="text" class="form-control" id="articleTitle" name="<?php print SharedShopping\Controller::ARTICLE_TITLE; ?>" placeholder="Name" value="<?php echo htmlentities($articleTitle); ?>" <?php if (!SharedShopping\PermissionManager::canManipulateDataInView($shoppingListId)) : ?> disabled <?php endif; ?>>

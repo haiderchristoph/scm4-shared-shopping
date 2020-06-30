@@ -1,0 +1,1 @@
+<input required type="date" name="<?php print SharedShopping\Controller::SL_DATE_UNTIL; ?>" max="3000-12-31" min="1000-01-01" class="form-control" value="<?php echo htmlentities($listDateUntil); ?>"  <?php if ($userType == SharedShopping\UserType::VOLUNTEER) : ?> disabled <?php endif; ?>>

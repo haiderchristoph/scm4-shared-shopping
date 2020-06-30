@@ -1,0 +1,1 @@
+<input required pattern="^(\d*)" type="text" class="form-control" id="articleAmount" name="<?php print SharedShopping\Controller::ARTICLE_AMOUNT; ?>" placeholder="Amount" value="<?php echo htmlentities($articleAmount); ?>" <?php if (!SharedShopping\PermissionManager::canManipulateDataInView($shoppingListId)) : ?> disabled <?php endif; ?>>
