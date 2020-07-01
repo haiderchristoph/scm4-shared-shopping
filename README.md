@@ -15,6 +15,8 @@ In ```etc/``` you can find the SQL file to build up the Database with the necess
 The application was developed with XAMPP, so put the application folder to htdocs on your Apache server.
 You may also provide the correct DB Connection credentials in ```lib/Data/DataManager.php``` before you start it.
 
+Further information can be found in ```doc/```.
+
 # Disclaimer
 This is just a project made for my studies. It only uses PHP and procudes spaghetti code in the frontend.
 The project should not be held as a good coding example, it's really not.
